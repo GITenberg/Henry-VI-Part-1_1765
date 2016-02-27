@@ -1,0 +1,28 @@
+_repo: Henry-VI-Part-1_1765
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '1999-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1765'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Great Britain -- Kings and rulers -- Drama'
+- !lcc 'PR'
+- !lcsh 'Henry VI, King of England, 1421-1471 -- Drama'
+- !lcsh 'Great Britain -- History -- Henry VI, 1422-1461 -- Drama'
+title: Henry VI, Part 1
+url: http://www.gutenberg.org/ebooks/1765
